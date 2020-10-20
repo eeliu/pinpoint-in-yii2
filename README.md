@@ -1,1 +1,1 @@
-# pinpont-in-yii2
+# pinpoint-in-yii2
