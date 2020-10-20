@@ -1,3 +1,9 @@
 [submodule "yii2admin"]
 	path = yii2admin
 	url = https://github.com/e282486518/yii2admin.git
+[submodule "yii2-shop"]
+	path = yii2-shop
+	url = https://github.com/samdark/yii2-shop.git
+[submodule "yii-demo"]
+	path = yii-demo
+	url = https://github.com/yiisoft/yii-demo.git
